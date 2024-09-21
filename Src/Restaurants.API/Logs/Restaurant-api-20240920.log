@@ -1,0 +1,97 @@
+2024-09-20 12:56:09.916 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-20 12:56:09.996 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 12:56:13.930 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-20 12:56:14.005 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 73 ms
+2024-09-20 12:56:14.021 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-20 12:56:14.022 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 3 ms
+2024-09-20 12:56:14.034 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 15 ms
+2024-09-20 12:56:14.034 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 15 ms
+2024-09-20 12:56:14.034 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 15 ms
+2024-09-20 12:56:14.352 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 157 ms
+2024-09-20 14:10:28.528 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-20 14:10:28.610 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 14:17:12.635 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-20 14:17:12.704 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 67 ms
+2024-09-20 14:17:12.718 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-20 14:17:12.730 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 13 ms
+2024-09-20 14:17:12.926 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 95 ms
+2024-09-20 14:17:58.574 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-20 14:17:58.658 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 14:18:10.077 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-20 14:18:10.213 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:10.308 +03:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-09-20 14:18:10.309 +03:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-09-20 14:18:10.391 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 312 ms
+2024-09-20 14:18:16.731 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:16.775 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 46 ms
+2024-09-20 14:18:18.627 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:18.632 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 7 ms
+2024-09-20 14:18:19.459 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:19.463 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 5 ms
+2024-09-20 14:18:20.169 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:20.173 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 4 ms
+2024-09-20 14:18:20.692 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:20.695 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 4 ms
+2024-09-20 14:18:21.413 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:21.416 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 4 ms
+2024-09-20 14:18:21.902 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:21.906 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 4 ms
+2024-09-20 14:18:22.271 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:22.276 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 5 ms
+2024-09-20 14:18:22.538 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:22.542 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 4 ms
+2024-09-20 14:18:22.785 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:22.788 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 3 ms
+2024-09-20 14:18:22.976 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:22.980 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 4 ms
+2024-09-20 14:18:23.868 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:23.870 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 3 ms
+2024-09-20 14:18:24.401 +03:00 [INF] Retrieving all restaurants.
+2024-09-20 14:18:24.404 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 3 ms
+2024-09-20 16:13:46.142 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-20 16:13:46.200 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 16:13:46.205 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-20 16:13:46.291 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 16:13:46.292 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-20 16:16:27.614 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-20 16:16:27.674 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 16:16:27.680 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-20 16:44:54.591 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-20 16:44:54.675 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-20 16:44:54.683 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-20 16:45:18.379 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-20 16:45:18.465 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 85 ms
+2024-09-20 16:45:18.485 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-20 16:45:18.499 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 15 ms
+2024-09-20 16:45:18.755 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 94 ms
+2024-09-20 16:45:23.118 +03:00 [WRN] Request [GET] 
+ at /BB took time: 8 ms

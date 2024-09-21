@@ -1,0 +1,394 @@
+2024-09-21 02:30:10.660 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 02:30:10.760 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 02:30:10.768 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 02:31:01.363 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 02:31:01.465 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 02:31:01.474 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 02:36:43.159 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 02:36:43.257 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 02:36:43.268 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 02:37:54.103 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 02:37:54.239 +03:00 [INF] Retrieving all restaurants.
+2024-09-21 02:37:54.400 +03:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-09-21 02:37:54.401 +03:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-09-21 02:37:54.561 +03:00 [WRN] Request [GET] 
+ at /api/Restaurants took time: 456 ms
+2024-09-21 02:37:54.590 +03:00 [WRN] Request [GET] 
+ at /favicon.ico took time: 1 ms
+2024-09-21 02:38:01.285 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 40 ms
+2024-09-21 02:38:01.308 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 11 ms
+2024-09-21 02:38:01.308 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 12 ms
+2024-09-21 02:38:01.308 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 11 ms
+2024-09-21 02:38:01.516 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 99 ms
+2024-09-21 02:38:05.922 +03:00 [WRN] Too Hot
+2024-09-21 02:38:05.924 +03:00 [WRN] Request [GET] 
+ at /RR took time: 4 ms
+2024-09-21 02:38:09.410 +03:00 [WRN] Too Hot
+2024-09-21 02:38:10.745 +03:00 [WRN] Too Hot
+2024-09-21 02:38:10.746 +03:00 [WRN] Request [GET] 
+ at /RR took time: 1 ms
+2024-09-21 02:38:16.885 +03:00 [WRN] Too Hot
+2024-09-21 02:38:17.954 +03:00 [WRN] Too Hot
+2024-09-21 02:38:18.555 +03:00 [WRN] Too Hot
+2024-09-21 15:08:03.722 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:08:03.787 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:08:03.793 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:08:03.877 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:08:03.877 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:08:32.753 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:08:32.817 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:08:32.822 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:09:50.589 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:09:50.693 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:09:50.702 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:10:07.615 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 15:10:07.697 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 80 ms
+2024-09-21 15:10:07.731 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:10:07.742 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 13 ms
+2024-09-21 15:10:07.742 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 13 ms
+2024-09-21 15:10:07.742 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 13 ms
+2024-09-21 15:10:07.930 +03:00 [ERR] Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.uploadLogo (Restaurants.API). See inner exception
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.uploadLogo (Restaurants.API). See inner exception
+ ---> Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Error reading parameter(s) for action Restaurants.API.Controllers.RestaurantsController.uploadLogo (Restaurants.API) as [FromForm] attribute used with IFormFile. Please refer to https://github.com/domaindrivendev/Swashbuckle.AspNetCore#handle-forms-and-file-uploads for more information
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository, Func`3 parameterGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   --- End of inner exception stack trace ---
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Restaurants.API.MiddleWares.RequestTimeLogging.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/RequestTime.cs:line 12
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Restaurants.API.MiddleWares.GlobalErrorHandling.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/GlobalErrorHandling.cs:line 14
+2024-09-21 15:10:33.901 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:10:33.997 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:10:34.005 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:10:37.214 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 15:10:37.299 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 82 ms
+2024-09-21 15:10:37.317 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:10:37.517 +03:00 [ERR] Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.uploadLogo (Restaurants.API). See inner exception
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.uploadLogo (Restaurants.API). See inner exception
+ ---> Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Error reading parameter(s) for action Restaurants.API.Controllers.RestaurantsController.uploadLogo (Restaurants.API) as [FromForm] attribute used with IFormFile. Please refer to https://github.com/domaindrivendev/Swashbuckle.AspNetCore#handle-forms-and-file-uploads for more information
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository, Func`3 parameterGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   --- End of inner exception stack trace ---
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Restaurants.API.MiddleWares.RequestTimeLogging.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/RequestTime.cs:line 12
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Restaurants.API.MiddleWares.GlobalErrorHandling.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/GlobalErrorHandling.cs:line 14
+2024-09-21 15:12:17.408 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:12:17.509 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:12:17.518 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:12:20.439 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 15:12:20.513 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 73 ms
+2024-09-21 15:12:20.526 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:12:20.627 +03:00 [ERR] Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.UploadLogo (Restaurants.API). See inner exception
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.UploadLogo (Restaurants.API). See inner exception
+ ---> Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Error reading parameter(s) for action Restaurants.API.Controllers.RestaurantsController.UploadLogo (Restaurants.API) as [FromForm] attribute used with IFormFile. Please refer to https://github.com/domaindrivendev/Swashbuckle.AspNetCore#handle-forms-and-file-uploads for more information
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository, Func`3 parameterGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   --- End of inner exception stack trace ---
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Restaurants.API.MiddleWares.RequestTimeLogging.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/RequestTime.cs:line 12
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Restaurants.API.MiddleWares.GlobalErrorHandling.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/GlobalErrorHandling.cs:line 14
+2024-09-21 15:12:21.004 +03:00 [ERR] Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.UploadLogo (Restaurants.API). See inner exception
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - Restaurants.API.Controllers.RestaurantsController.UploadLogo (Restaurants.API). See inner exception
+ ---> Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Error reading parameter(s) for action Restaurants.API.Controllers.RestaurantsController.UploadLogo (Restaurants.API) as [FromForm] attribute used with IFormFile. Please refer to https://github.com/domaindrivendev/Swashbuckle.AspNetCore#handle-forms-and-file-uploads for more information
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository, Func`3 parameterGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateParametersAsync(ApiDescription apiDescription, SchemaRepository schemaRespository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   --- End of inner exception stack trace ---
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository, Func`3 parametersGenerator, Func`3 bodyGenerator, Func`3 applyFilters)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationAsync(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Restaurants.API.MiddleWares.RequestTimeLogging.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/RequestTime.cs:line 12
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Restaurants.API.MiddleWares.GlobalErrorHandling.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/GlobalErrorHandling.cs:line 14
+2024-09-21 15:13:14.610 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:13:14.718 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:13:14.726 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:13:20.939 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 15:13:21.011 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 71 ms
+2024-09-21 15:13:21.025 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:13:21.175 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 112 ms
+2024-09-21 15:14:14.841 +03:00 [ERR] Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Restuarants.infrastructure.Authorization.Services.RestaurantAuthorizationService.IsAuthorized(Restaurant restaurant, ResourceOperationType operationType) in /home/mohab/Projects/Restuarants/Src/Restuarants.infrastructure/Authorization/Services/RestaurantAuthorizationService.cs:line 17
+   at Restuarants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in /home/mohab/Projects/Restuarants/Src/Restuarants.Application/Restaurants/Commands/UploadRestaurantLogo/UploadRestaurantLogoCommandHandler.cs:line 23
+   at Restaurants.API.Controllers.RestaurantsController.UploadLogo(Int32 id, IFormFile file) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/Controllers/RestaurantsController.cs:line 83
+   at Restaurants.API.Controllers.RestaurantsController.UploadLogo(Int32 id, IFormFile file) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/Controllers/RestaurantsController.cs:line 84
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Restaurants.API.MiddleWares.RequestTimeLogging.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/RequestTime.cs:line 12
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Restaurants.API.MiddleWares.GlobalErrorHandling.InvokeAsync(HttpContext context, RequestDelegate next) in /home/mohab/Projects/Restuarants/Src/Restaurants.API/MiddleWares/GlobalErrorHandling.cs:line 14
+2024-09-21 15:15:18.788 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:15:18.992 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:15:19.008 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:15:33.083 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 15:16:25.613 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:16:25.806 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:16:25.817 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:16:36.839 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-21 15:16:40.860 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/30/logo took time: 4017 ms
+2024-09-21 15:19:28.902 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:19:29.052 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:19:29.063 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:19:32.023 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:20:17.905 +03:00 [WRN] Request [GET] 
+ at /weatherforecast/swagger took time: 23 ms
+2024-09-21 15:24:45.806 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:24:45.950 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:24:45.960 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:24:48.916 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:24:49.403 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 25 ms
+2024-09-21 15:24:49.530 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 64 ms
+2024-09-21 15:24:49.628 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:24:49.639 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 12 ms
+2024-09-21 15:24:49.935 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 308 ms
+2024-09-21 15:24:49.935 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 308 ms
+2024-09-21 15:24:49.944 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 317 ms
+2024-09-21 15:24:50.297 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 202 ms
+2024-09-21 15:25:16.066 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/38/logo took time: 4376 ms
+2024-09-21 15:26:10.722 +03:00 [WRN] Request [GET] 
+ at /weatherforecast/swagger took time: 2 ms
+2024-09-21 15:28:56.182 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:28:56.276 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:28:56.283 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:29:02.070 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:29:02.239 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:29:02.250 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:29:04.888 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:29:05.422 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 27 ms
+2024-09-21 15:29:05.572 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 93 ms
+2024-09-21 15:29:05.589 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:29:05.599 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 11 ms
+2024-09-21 15:29:06.019 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 431 ms
+2024-09-21 15:29:06.019 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 431 ms
+2024-09-21 15:29:06.066 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 477 ms
+2024-09-21 15:29:06.366 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 150 ms
+2024-09-21 15:30:50.641 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/40/logo took time: 81446 ms
+2024-09-21 15:41:08.185 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:41:08.278 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:41:08.292 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:41:10.715 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:41:11.745 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 21 ms
+2024-09-21 15:41:11.809 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 49 ms
+2024-09-21 15:41:11.827 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:41:11.830 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 4 ms
+2024-09-21 15:41:11.843 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 17 ms
+2024-09-21 15:41:11.843 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 17 ms
+2024-09-21 15:41:11.844 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 18 ms
+2024-09-21 15:41:12.081 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 114 ms
+2024-09-21 15:41:40.961 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/42/logo took time: 416 ms
+2024-09-21 15:43:44.001 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/42/logo took time: 113 ms
+2024-09-21 15:45:41.622 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:45:41.721 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:45:41.729 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:45:44.164 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:45:44.868 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 29 ms
+2024-09-21 15:45:44.933 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 50 ms
+2024-09-21 15:45:44.951 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:45:44.954 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 4 ms
+2024-09-21 15:45:44.966 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 17 ms
+2024-09-21 15:45:44.966 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 17 ms
+2024-09-21 15:45:44.967 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 17 ms
+2024-09-21 15:45:45.202 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 124 ms
+2024-09-21 15:46:05.929 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/44/logo took time: 432 ms
+2024-09-21 15:46:18.098 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/44/logo took time: 113 ms
+2024-09-21 15:47:47.463 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:47:47.553 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:47:47.562 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:47:51.924 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:47:52.732 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 17 ms
+2024-09-21 15:47:52.792 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 48 ms
+2024-09-21 15:47:52.812 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:47:52.815 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 3 ms
+2024-09-21 15:47:52.826 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 15 ms
+2024-09-21 15:47:52.826 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 15 ms
+2024-09-21 15:47:52.827 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 16 ms
+2024-09-21 15:47:53.048 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 111 ms
+2024-09-21 15:48:16.253 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/46/logo took time: 417 ms
+2024-09-21 15:49:22.962 +03:00 [WRN] No restaurant with Id : 44 exists. 
+2024-09-21 15:49:35.823 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/46/logo took time: 77 ms
+2024-09-21 15:58:51.424 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 15:58:51.572 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 15:58:51.583 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 15:58:54.568 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 15:58:55.070 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 26 ms
+2024-09-21 15:58:55.175 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 62 ms
+2024-09-21 15:58:55.257 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 15:58:55.288 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 32 ms
+2024-09-21 15:58:55.726 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 470 ms
+2024-09-21 15:58:55.726 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 470 ms
+2024-09-21 15:58:55.772 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 516 ms
+2024-09-21 15:58:55.922 +03:00 [WRN] Request [GET] 
+ at /swagger/favicon-32x32.png took time: 20 ms
+2024-09-21 15:58:56.081 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 179 ms
+2024-09-21 16:00:23.922 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/50/logo took time: 47672 ms
+2024-09-21 16:01:36.538 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/51/logo took time: 3108 ms
+2024-09-21 16:02:01.497 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 16:02:01.645 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 16:02:01.656 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 16:02:04.473 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 16:02:04.817 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 26 ms
+2024-09-21 16:02:04.932 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 63 ms
+2024-09-21 16:02:04.967 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 16:02:04.998 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 32 ms
+2024-09-21 16:02:05.682 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 716 ms
+2024-09-21 16:02:05.682 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 716 ms
+2024-09-21 16:02:05.709 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 743 ms
+2024-09-21 16:02:05.960 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 155 ms
+2024-09-21 16:02:30.443 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/53/logo took time: 6632 ms
+2024-09-21 16:04:03.946 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-09-21 16:04:04.096 +03:00 [WRN] The entity type 'Address' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+2024-09-21 16:04:04.106 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Dish'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-09-21 16:04:07.211 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-21 16:04:07.800 +03:00 [WRN] Request [GET] 
+ at /swagger took time: 27 ms
+2024-09-21 16:04:07.929 +03:00 [WRN] Request [GET] 
+ at /swagger/index.html took time: 64 ms
+2024-09-21 16:04:07.949 +03:00 [WRN] Request [GET] 
+ at /swagger/index.js took time: 1 ms
+2024-09-21 16:04:07.959 +03:00 [WRN] Request [GET] 
+ at /swagger/index.css took time: 12 ms
+2024-09-21 16:04:08.238 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui.css took time: 290 ms
+2024-09-21 16:04:08.238 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-standalone-preset.js took time: 290 ms
+2024-09-21 16:04:08.306 +03:00 [WRN] Request [GET] 
+ at /swagger/swagger-ui-bundle.js took time: 359 ms
+2024-09-21 16:04:08.695 +03:00 [WRN] Request [GET] 
+ at /swagger/v1/swagger.json took time: 241 ms
+2024-09-21 16:05:12.998 +03:00 [WRN] Request [POST] 
+ at /api/Restaurants/55/logo took time: 38166 ms
